@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Lisa 👋
 
 <!--
 **Zhusufeng/Zhusufeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- [Open to Hire]
+- 🌱 I’m currently playing around with tech for my project for fun, [Auto Amigo](https://github.com/Zhusufeng/auto-amigo-react).
+- 📚 Tech Stack: React (Next.js), JavaScript/TypeScript, Node.js, Express, MySQL, GraphQL
+- ⚡ Fun fact: I'm addicted to propagating and growing succulents 🌱
