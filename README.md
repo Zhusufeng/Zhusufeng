@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - [Open to Hire]
-- 🌱 I’m currently playing around with tech for my project for fun, [Auto Amigo](https://github.com/Zhusufeng/auto-amigo-react).
+- 😄 Pronouns: she/her
+- 🔭 I’m working on side projects such as [Auto Amigo (React)](https://github.com/Zhusufeng/auto-amigo-react) and cleaning up my coding blog.
+- 🌱 I'm brushing up on MongoDB with Mongoose through a mini project, [Auto Amigo (Mongo)](https://github.com/Zhusufeng/auto-amigo-mongo).
 - 📚 Tech Stack: React (Next.js), JavaScript/TypeScript, Node.js, Express, MySQL, GraphQL
 - ⚡ Fun fact: I'm addicted to propagating and growing succulents 🌱
