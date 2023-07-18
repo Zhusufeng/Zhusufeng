@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - [Open to Hire]
 - 😄 Pronouns: she/her
-- 🔭 I’m working on side projects such as [Auto Amigo (React)](https://github.com/Zhusufeng/auto-amigo-react) and cleaning up my coding blog.
-- 🌱 I'm brushing up on MongoDB with Mongoose through a mini project, [Auto Amigo (Mongo)](https://github.com/Zhusufeng/auto-amigo-mongo).
+- 🌱 I brushed up on MongoDB with Mongoose with a mini project, [Auto Amigo (Mongo)](https://github.com/Zhusufeng/auto-amigo-mongo). You can view it [here](https://auto-amigo-mongo.vercel.app/).
+- 🔭 I’m currently working on side projects and cleaning up my coding blog.
 - 📚 Tech Stack: React (Next.js), JavaScript/TypeScript, Node.js, Express, MySQL, GraphQL
 - ⚡ Fun fact: I'm addicted to propagating and growing succulents 🌱
