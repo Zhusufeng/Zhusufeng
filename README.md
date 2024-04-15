@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- [Open to Hire]
 - 😄 Pronouns: she/her
 - 🌱 I brushed up on MongoDB with Mongoose with a mini project, [Auto Amigo (Mongo)](https://github.com/Zhusufeng/auto-amigo-mongo). You can view it [here](https://auto-amigo-mongo.vercel.app/).
 - 🔭 I’m currently working on side projects and cleaning up my coding blog.
